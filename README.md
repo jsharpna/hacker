@@ -14,3 +14,5 @@ I installed Ubuntu on an Toshiba laptop
 
 I added a desktop shortcut that started jupyter notebook, and another that will pull this repo using .desktop files.  For simplicity I will put the notebooks in the rootdir of this repo.
 
+Enjoy!
+
